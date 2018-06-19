@@ -7,6 +7,7 @@ a_sequence:
 - key: value
   another_key: another_value
   null : another_value
+  nullValueKey: null
 -
   - This is a sequence
   - inside another sequence
