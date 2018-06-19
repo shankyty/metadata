@@ -6,6 +6,7 @@ a_sequence:
 - Item 4
 - key: value
   another_key: another_value
+  : another_value
 -
   - This is a sequence
   - inside another sequence
