@@ -1,5 +1,4 @@
 ---
-- hello
-- yello
-
+hello: new
+yello: object
 ---
